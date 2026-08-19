@@ -11,7 +11,7 @@ Si vous utilisez **AdsorpSuite** dans vos travaux de recherche ou publications, 
 
 ```bibtex
 @software{compere_adsorpsuite_2026,
-  author       = {Compere, Steven},
+  author       = {Compère, Steven},
   title        = {AdsorpSuite: Comprehensive Adsorption Isotherm Analysis, Excess-to-Absolute Conversion, and IAST Mixture Modeling},
   year         = {2026},
   publisher    = {Zenodo},
