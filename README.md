@@ -1,2 +1,21 @@
 # AdsorpSuite
 Python GUI for adsorption isotherms fitting, excess-to-absolute conversion, and IAST mixture calculations.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22011513.svg)](https://doi.org/10.5281/zenodo.22011513)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Citation
+
+Si vous utilisez **AdsorpSuite** dans vos travaux de recherche ou publications, merci de citer le logiciel comme suit :
+
+```bibtex
+@software{compere_adsorpsuite_2026,
+  author       = {Compere, Steven},
+  title        = {AdsorpSuite: Comprehensive Adsorption Isotherm Analysis, Excess-to-Absolute Conversion, and IAST Mixture Modeling},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {v3.0},
+  doi          = {10.5281/zenodo.22011513},
+  url          = {[https://doi.org/10.5281/zenodo.22011513](https://doi.org/10.5281/zenodo.22011513)}
+}
