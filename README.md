@@ -19,3 +19,10 @@ Si vous utilisez **AdsorpSuite** dans vos travaux de recherche ou publications, 
   doi          = {10.5281/zenodo.22011513},
   url          = {[https://doi.org/10.5281/zenodo.22011513](https://doi.org/10.5281/zenodo.22011513)}
 }
+
+## Author & Contact
+
+* **Author:** Steven Compère (PhD, Materials Chemistry)
+* **Email:** compere.steven[at]gmail.com
+* **ORCID:** [0009-0006-3474-8748](https://orcid.org/0009-0006-3474-8748)
+* **Bug reports & feature requests:** Please use [GitHub Issues](https://github.com/stevencompere/AdsorpSuite/issues).
