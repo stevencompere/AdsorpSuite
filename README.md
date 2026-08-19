@@ -1,4 +1,5 @@
 # AdsorpSuite
+
 Python GUI for adsorption isotherms fitting, excess-to-absolute conversion, and IAST mixture calculations.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22011513.svg)](https://doi.org/10.5281/zenodo.22011513)
@@ -7,22 +8,24 @@ Python GUI for adsorption isotherms fitting, excess-to-absolute conversion, and 
 
 ## Citation
 
-Si vous utilisez **AdsorpSuite** dans vos travaux de recherche ou publications, merci de citer le logiciel comme suit :
+If you use **AdsorpSuite** in your research or publications, please cite the software as follows:
 
-```bibtex
-@software{compere_adsorpsuite_2026,
+
+<pre><code>@software{compere_adsorpsuite_2026,
   author       = {Compère, Steven},
   title        = {AdsorpSuite: Comprehensive Adsorption Isotherm Analysis, Excess-to-Absolute Conversion, and IAST Mixture Modeling},
   year         = {2026},
   publisher    = {Zenodo},
   version      = {v3.0},
   doi          = {10.5281/zenodo.22011513},
-  url          = {[https://doi.org/10.5281/zenodo.22011513](https://doi.org/10.5281/zenodo.22011513)}
-}
+  url          = {https://doi.org/10.5281/zenodo.22011513}
+}</code></pre>
 
-### Author & Contact
+S. Compère, AdsorpSuite: Comprehensive Adsorption Isotherm Analysis, Excess-to-Absolute Conversion, and IAST Mixture Modeling (v3.0). Zenodo. (2026), https://doi.org/10.5281/zenodo.22011513
+
+## Author & Contact
 
 * **Author:** Steven Compère (PhD, Materials Chemistry)
-* **Email:** compere.steven[at]gmail.com
+* **Email:** compere.steven@gmail.com
 * **ORCID:** [0009-0006-3474-8748](https://orcid.org/0009-0006-3474-8748)
 * **Bug reports & feature requests:** Please use [GitHub Issues](https://github.com/stevencompere/AdsorpSuite/issues).
