@@ -20,7 +20,7 @@ Si vous utilisez **AdsorpSuite** dans vos travaux de recherche ou publications, 
   url          = {[https://doi.org/10.5281/zenodo.22011513](https://doi.org/10.5281/zenodo.22011513)}
 }
 
-## Author & Contact
+### Author & Contact
 
 * **Author:** Steven Compère (PhD, Materials Chemistry)
 * **Email:** compere.steven[at]gmail.com
