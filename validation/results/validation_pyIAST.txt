@@ -1,0 +1,24 @@
+VALIDATION OF ADSORPSUITE'S IAST AGAINST pyIAST
+==============================================================================
+AdsorpSuite 3.2.0   |   pyIAST 1.4.3   |   Python 3.12.3, numpy 2.5.4, scipy 1.18.1
+Date: 2026-11-25 18:47
+
+Both codes receive the same pure-component isotherms; deviation = |q_AdsorpSuite - q_pyIAST| / q_pyIAST,
+maximum over all points and all components.
+
+Case                                                           pyIAST isotherm      pts    max rel.    max abs.  
+Langmuir / Langmuir (CO2/CH4-like)                             analytical            42    1.99e-13  4.97e-14 mmol/g  OK
+Langmuir / Langmuir, very different capacities (CO2/N2-like)   analytical            30    1.34e-12  1.20e-14 mmol/g  OK
+Dual-site Langmuir / Langmuir                                  analytical            30    8.94e-13  8.30e-14 mmol/g  OK
+Ternary Langmuir (CO2/CH4/H2-like)                             analytical            12    4.53e-13  4.04e-14 mmol/g  OK
+Toth / Sips (no analytical spreading pressure for Toth)        table, 6000 pts       24    1.56e-06  1.21e-05 mmol/g  OK
+Dubinin-Astakhov (P0 = 64 bar) / Langmuir                      table + analytical    24    3.86e-06  6.04e-06 mmol/g  OK
+
+Langmuir fit of the same noisy data set (18 points, 1 % noise):
+   AdsorpSuite : q_max = 10.79655, b = 0.183254
+   pyIAST      : q_max = 10.79660, b = 0.183251
+   max relative deviation on the parameters: 1.8e-05  OK
+
+Total computing time: AdsorpSuite 0.74 s, pyIAST 8.75 s (162 mixtures)
+
+CONCLUSION: both codes give the same results within numerical tolerance.
