@@ -2,7 +2,7 @@
 
 Free, open-source desktop application for high-pressure gas adsorption: excess-to-absolute conversion, isotherm fitting, IAST mixture predictions and isosteric heat, in a graphical interface and without writing code. Interface in English or French.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22011513.svg)](https://doi.org/10.5281/zenodo.22011513)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22011512.svg)](https://doi.org/10.5281/zenodo.22011512)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -67,8 +67,8 @@ If you use AdsorpSuite in your research, please cite:
   year      = {2026},
   publisher = {Zenodo},
   version   = {v3.2.0},
-  doi       = {10.5281/zenodo.22011513},
-  url       = {https://doi.org/10.5281/zenodo.22011513}
+  doi       = {10.5281/zenodo.22011512},
+  url       = {https://doi.org/10.5281/zenodo.22011512}
 }
 ```
 
